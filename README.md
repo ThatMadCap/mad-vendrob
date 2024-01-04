@@ -21,6 +21,7 @@ Unleash the excitement of urban mischief with this versatile Vending Machine Rob
 
 * Download ZIP
 * Drag and drop resource into your server files
+* Rename folder to "mad-vendrob"
 * Start resource through server.cfg
 
 * Add this to your ps-dispatch\shared\config.lua
