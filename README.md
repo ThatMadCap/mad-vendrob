@@ -10,6 +10,10 @@ Customize the robbery cooldown to control the frequency of heists, and set up po
 
 Unleash the excitement of urban mischief with this versatile Vending Machine Robbery resource, where each heist promises cash, common items, and the possibility of scoring rare treasures. It's time to shake up the cityscape and let your players embark on a lucrative life of vending machine crime!
 
+## Preview
+
+https://www.youtube.com/watch?v=l_Q_Bbsz_rg
+
 ## Dependencies
 
 * [QBCore Framework](https://github.com/qbcore-framework)
