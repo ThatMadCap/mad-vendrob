@@ -89,7 +89,7 @@ This is the first resource I've released. I wouldn't have been able to do it wit
 * [sp-meterrobbery](https://github.com/ItsSlappy/sp-MeterRobbery)
 * [mz-storerobbery](https://github.com/MrZainRP/mz-storerobbery)
 
-Credits to Authors:
+Credits:
 
 * [ProjectSloth](https://github.com/Project-Sloth) - Authors of 'ps-signrobbery', 'ps-ui', 'ps-dispatch'
 * [ItsSlappy](https://github.com/ItsSlappy) - Author of 'sp-meterrobbery'
