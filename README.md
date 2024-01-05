@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=l_Q_Bbsz_rg
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui) for circle minigame and notifications
 * [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch) for police dispatch notifications
+* Tested with lj-inventory/ps-inventory
 
 ## Installation
 
