@@ -80,7 +80,7 @@ exports('VendingMachineRobbery', VendingMachineRobbery)
 
 ## Usage
 
-Take this and use it however you like, consider the credited authors.
+Take this and use it however you like, consider the credited authors. Do not re-sell.
 
 # Credits
 
