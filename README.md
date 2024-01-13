@@ -97,3 +97,5 @@ Credits:
 * [MrZainRP](https://github.com/MrZainRP) - Author of 'mz-storerobbery'
 * [Simon](https://github.com/simsonas86) - Big brain friend
 * [Squrky](https://github.com/squrky) - "Advisor"
+
+If you enjoyed this free resource consider buying me a [coffee](https://ko-fi.com/madcap) <3
