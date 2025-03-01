@@ -2,6 +2,12 @@
 
 <a href="https://ko-fi.com/madcap" target="_blank"><img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-500.png" alt="Support me on Ko-fi" width="250"></a>
 
+[**mad-vendrob v2 - Premium Version**](https://madcap-scripts.tebex.io/package/6679119)
+
+Looking to take your vending machine heists to the next level? Check out **mad-vendrob v2** – a complete rewrite with new features, better performance, and dynamic gameplay elements. This premium version offers seamless compatibility, improved rewards, dynamic consequences, and more. It’s fully customizable, secure, and optimized for a truly immersive experience!
+
+--
+
 # <mad-vendrob>
 
 ## Description
