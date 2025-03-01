@@ -6,8 +6,6 @@
 
 Looking to take your vending machine heists to the next level? Check out **mad-vendrob v2** – a complete rewrite with new features, better performance, and dynamic gameplay elements. This premium version offers seamless compatibility, improved rewards, dynamic consequences, and more. It’s fully customizable, secure, and optimized for a truly immersive experience!
 
---
-
 # <mad-vendrob>
 
 ## Description
