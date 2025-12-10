@@ -75,7 +75,7 @@ end
 exports('VendingMachineRobbery', VendingMachineRobbery)
 ```
 
-* Add this to your ps-ui\html\style.css
+* Add this to your ps-ui\web\css\themes.css
 
 ```css
 .warning {
